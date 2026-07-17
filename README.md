@@ -136,12 +136,3 @@ O APK de desenvolvimento fica em:
 - [ ] Permitir histórico local opcional de conversas.
 - [ ] Adicionar tela de configurações para voz e tempo de escuta.
 
-## Texto sugerido para o LinkedIn
-
-> Desenvolvi o **Canilhice**, um assistente de voz nativo para Android integrado à OpenAI. O aplicativo reconhece uma palavra de ativação, converte a pergunta em texto, consulta a IA e responde em voz alta em português. Durante o desenvolvimento, trabalhei com Kotlin, SpeechRecognizer, Text-to-Speech, foreground services, estados animados e Android Keystore com AES-GCM para proteger a chave da API. Também enfrentei desafios reais como captura prematura da fala, inicialização assíncrona da voz, ciclo contínuo de escuta e tratamento de erros da API. Este projeto reforçou meus conhecimentos em Android, segurança e integração de inteligência artificial.
-
-Sugestão de hashtags: `#Android #Kotlin #InteligenciaArtificial #OpenAI #DesenvolvimentoMobile #Portfolio`
-
-## Status
-
-MVP funcional, testado em aparelho Android físico. Projeto criado para aprendizado e portfólio.
