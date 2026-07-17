@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Canilhice</string>
+    <string name="robot_description">Robô Canilhice</string>
+    <string name="api_key_hint">Chave da API OpenAI</string>
+    <string name="api_key_saved">Chave salva com segurança</string>
+    <string name="listen">ESCUTAR</string>
+    <string name="pause">PAUSAR</string>
+    <string name="status_ready">Pronto para conversar</string>
+    <string name="status_listening">Ouvindo por “Canilhice”…</string>
+    <string name="status_paused">Escuta pausada</string>
+</resources>
